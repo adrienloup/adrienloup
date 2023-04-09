@@ -1,4 +1,4 @@
-I'm Adrien Loup, I'm a Creative Developer focused on JavaScript for interactive projects that usually are apps and websites.
+I'm Adrien, I'm a Creative Developer focused on JavaScript for interactive projects that usually are apps and websites.
 <!--
 **adrienloup/adrienloup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
