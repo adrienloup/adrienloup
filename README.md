@@ -1,4 +1,4 @@
-My name is Adrien, I'm a creative developer focused on JavaScript for [interactive projects](https://codepen.io/adrienloup) which are typically apps and websites.
+My name is Adrien, I am a creative developer focused on [immersive web projects](https://codepen.io/adrienloup).
 
 <!--
 [![adrienloup's github stats](https://github-readme-stats.vercel.app/api?username=adrienloup&count_private=true&show_icons=true&theme=transparent)](https://github.com/adrienloup/adrienloup)
